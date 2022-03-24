@@ -1,5 +1,5 @@
 # TCP-implementation-on-UDP
-An implementation of most of the TCP protocols over the UDP protocol. 
+An implementation of most TCP protocol features over the UDP protocol. 
 
 TCP features implemented:
 - TCP header flags and data
